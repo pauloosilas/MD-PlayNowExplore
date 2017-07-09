@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/play_now_menu_nav"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Play Now" />
+        <item
+            android:id="@+id/my_games_menu_nav"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="My Games" />
+        <item
+            android:id="@+id/inbox_menu_nav"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Inbox" />
+        <item
+            android:id="@+id/players_menu_nav"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Players" />
+
+        <item
+            android:id="@+id/explore_menu_nav"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Explore" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/settings__menu_nav"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Settings" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Help and feedback" />
+        </menu>
+    </item>
+
+</menu>

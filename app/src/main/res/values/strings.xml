@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PlayNowExplore</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_home">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_full_name">Paulo Silas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">Paulo Silas</string>
+    <string name="user_company_name">puzzier</string>
+    <string name="level_up">LEVEL UP IN 8000 XP</string>
+    <string name="link_perfil">VIEW PROFILE</string>
+</resources>
